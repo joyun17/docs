@@ -1,0 +1,16 @@
+import { _ as _export_sfc, c as createElementBlock, a as openBlock, aj as createStaticVNode } from './chunks/framework.2vc7Ue4u.js';
+
+const _imports_0 = "/docs/assets/00userManual(common)_52.BlWwQU0S.png";
+
+const __pageData = JSON.parse("{\"title\":\"FCM 파일 다운로드\",\"description\":\"\",\"frontmatter\":{},\"headers\":[],\"relativePath\":\"manual/manual_common/04-fcm-file-download.md\",\"filePath\":\"manual/manual_common/04-fcm-file-download.md\"}");
+const _sfc_main = {name:"manual/manual_common/04-fcm-file-download.md"};
+
+
+function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
+  return (openBlock(), createElementBlock("div", null, [...(_cache[0] || (_cache[0] = [
+    createStaticVNode("<h1 id=\"fcm-파일-다운로드\" tabindex=\"-1\">FCM 파일 다운로드 <a class=\"header-anchor\" href=\"#fcm-파일-다운로드\" aria-label=\"Permalink to &quot;FCM 파일 다운로드&quot;\">​</a></h1><h2 id=\"다운로드-방법\" tabindex=\"-1\">다운로드 방법 <a class=\"header-anchor\" href=\"#다운로드-방법\" aria-label=\"Permalink to &quot;다운로드 방법&quot;\">​</a></h2><p>브라우저 상단 다운로드 URL을 확인합니다: <a href=\"https://fcm.hyundai-ifc.com/JbrowserSetup.html\" target=\"_blank\" rel=\"noreferrer\">https://fcm.hyundai-ifc.com/JbrowserSetup.html</a></p><h2 id=\"설치-절차\" tabindex=\"-1\">설치 절차 <a class=\"header-anchor\" href=\"#설치-절차\" aria-label=\"Permalink to &quot;설치 절차&quot;\">​</a></h2><p><img src=\"" + _imports_0 + "\" alt=\"\" data-zoomable=\"true\"></p><ol><li>다운로드 URL 페이지 접속</li><li><strong>J.Browser8 설치</strong> 클릭</li><li>설치 파일 다운로드</li></ol><h2 id=\"주의사항\" tabindex=\"-1\">주의사항 <a class=\"header-anchor\" href=\"#주의사항\" aria-label=\"Permalink to &quot;주의사항&quot;\">​</a></h2><p><strong>J.Browser 설치 오류 시</strong>: .Net Framework 4.5.2를 우선 설치해야 합니다.</p><h2 id=\"다음-단계\" tabindex=\"-1\">다음 단계 <a class=\"header-anchor\" href=\"#다음-단계\" aria-label=\"Permalink to &quot;다음 단계&quot;\">​</a></h2><ul><li><strong>FCM JBrowser8 설치</strong>: 다운로드한 파일을 설치하는 방법</li><li><strong>FCM JBrowser8 실행</strong>: 설치 후 실행하는 방법</li></ul>", 10)
+  ]))]))
+}
+const _04FcmFileDownload = /*#__PURE__*/_export_sfc(_sfc_main, [['render',_sfc_render]]);
+
+export { __pageData, _04FcmFileDownload as default };

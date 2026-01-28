@@ -1,0 +1,15 @@
+import { _ as _imports_0, a as _imports_1, b as _imports_2 } from './chunks/01userManual_fi_02_73.bvXdVu4E.js';
+import { _ as _export_sfc, c as createElementBlock, a as openBlock, aj as createStaticVNode } from './chunks/framework.2vc7Ue4u.js';
+
+const __pageData = JSON.parse("{\"title\":\"송장등록및조회  (  매출  )\",\"description\":\"\",\"frontmatter\":{},\"headers\":[],\"relativePath\":\"manual/manual_fi_02/fig/fig3400.md\",\"filePath\":\"manual/manual_fi_02/fig/fig3400.md\"}");
+const _sfc_main = {name:"manual/manual_fi_02/fig/fig3400.md"};
+
+
+function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
+  return (openBlock(), createElementBlock("div", null, [...(_cache[0] || (_cache[0] = [
+    createStaticVNode("", 18)
+  ]))]))
+}
+const fig3400 = /*#__PURE__*/_export_sfc(_sfc_main, [['render',_sfc_render]]);
+
+export { __pageData, fig3400 as default };
