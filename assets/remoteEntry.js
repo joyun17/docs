@@ -2,8 +2,8 @@ const currentImports = {};
       const exportSet = new Set(['Module', '__esModule', 'default', '_export_sfc']);
       let moduleMap = {
 "./DocExposer":()=>{
-      dynamicLoadingCss(["style.CvmUaTUu.css"], false, './DocExposer');
-      return __federation_import('${__federation_expose_./DocExposer}').then(module =>Object.keys(module).every(item => exportSet.has(item)) ? () => module.default : () => module)},};
+      dynamicLoadingCss(["style-CMLL9_Bh.css"], false, './DocExposer');
+      return __federation_import('./__federation_expose_DocExposer-BJVx6JNM.js').then(module =>Object.keys(module).every(item => exportSet.has(item)) ? () => module.default : () => module)},};
       const seen = {};
       const dynamicLoadingCss = (cssFilePaths, dontAppendStylesToHead, exposeItemName) => {
         const metaUrl = import.meta.url;
@@ -13,7 +13,7 @@ const currentImports = {};
         }
 
         const curUrl = metaUrl.substring(0, metaUrl.lastIndexOf('remoteEntry.js'));
-        const base = '/docs/';
+        const base = '/';
         'assets';
 
         cssFilePaths.forEach(cssPath => {
